@@ -1,5 +1,5 @@
-# osman
 <img src="https://github.com/rajoy99/osman/blob/main/OsmanLogo.png" width="200" height="100" />
+---
 
 **osman**: OverSampling by Deep Generative Models 
 
