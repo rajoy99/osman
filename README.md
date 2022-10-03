@@ -1,7 +1,8 @@
-<img src="https://github.com/rajoy99/osman/blob/main/OsmanLogo.png" width="200" height="100" />
+<img src="https://github.com/rajoy99/osman/blob/main/OsmanLogo.png" width="200" height="100" /> OverSampling by Deep Generative Models 
+
 ---
 
-**osman**: OverSampling by Deep Generative Models 
+**osman**: 
 
 
 A pip package which oversamples class imbalanced binary data by Deep Generative Models. 
