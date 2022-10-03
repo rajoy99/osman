@@ -12,6 +12,14 @@ This package offers two APIs.
 
 2) WGAN-GP
 
+**Usage Guide**
+---
+
+Installation:
+
+```python
+pip install osman
+```
 
 The APIs are very simple to use. One example as follows:
 
