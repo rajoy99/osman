@@ -15,7 +15,7 @@ This package offers two APIs.
 The APIs are very simple to use. One example as follows:
 
 ```python
-
+# Applying variational auto encoder on class imbalanced data 
 from osman.oversampler import VAEify 
 
 X_vae,y_vae=VAEify(X_train,y_train)
