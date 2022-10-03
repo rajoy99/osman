@@ -2,7 +2,7 @@
 
 **osman**: OverSampling by Deep Generative Models 
 
-![Logo](OsmanLogo.png)
+![Logo](OsmanLogo.png =25x25)
 
 A pip package which oversamples class imbalanced binary data by Deep Generative Models. 
 
