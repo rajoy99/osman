@@ -21,7 +21,7 @@ Installation:
 pip install osman
 ```
 
-The APIs are very simple to use. One example as follows:
+The APIs are very simple to use. This example shows the usage of the VAE 
 
 ```python
 # Applying variational auto encoder on class imbalanced data 
@@ -37,4 +37,19 @@ score_vae=roc_auc_score(y_pred_vae,y_test)
 
 
 ```
+This example shows the usage of the WGAN-GP
 
+```python
+
+from osman.oversampler import WGANify
+
+X_wgan,y_wgan=WGANify(X_train,y_train)
+
+logreg.fit(X_wgan,y_wgan)
+
+y_pred_wgan=logreg.predict(X_test)
+
+score_wgan=roc_auc_score(y_pred_wgan,y_test)
+```
+
+Furthermore, consult the tutorial ipython notebook to see the usage on real world credit default dataset.
