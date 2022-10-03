@@ -29,7 +29,4 @@ score_vae=roc_auc_score(y_pred_vae,y_test)
 
 
 ```
-**Acknowledgements:**
-
-For making this project, I had taken read the following literature. 
 
