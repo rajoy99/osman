@@ -54,3 +54,11 @@ score_wgan=roc_auc_score(y_pred_wgan,y_test)
 ```
 
 Furthermore, consult the tutorial ipython notebook to see the usage on real world credit default dataset.
+
+**Results**
+
+| Data  | ROC AUC Score |
+| ------------- | ------------- |
+| Imbalanced  | ~38%  |
+| Oversampled by VAE  | ~55%  |
+| Oversampled by WGAN  | ~50%  |
