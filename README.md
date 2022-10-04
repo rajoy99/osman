@@ -57,6 +57,8 @@ Furthermore, consult the tutorial ipython notebook to see the usage on real worl
 
 **Results**
 
+Results on UCI Credit Default dataset with Logistic Regression Classifier.
+
 | Data  | ROC AUC Score |
 | ------------- | ------------- |
 | Imbalanced  | ~38%  |
