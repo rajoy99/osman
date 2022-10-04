@@ -61,6 +61,6 @@ Results on UCI Credit Default dataset with Logistic Regression Classifier.
 
 | Data  | ROC AUC Score |
 | ------------- | ------------- |
-| Imbalanced  | ~38%  |
+| Original Imbalanced data | ~38%  |
 | Oversampled by osman's VAE API  | ~55%  |
 | Oversampled by osman's WGAN-GP API | ~50%  |
