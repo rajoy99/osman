@@ -68,7 +68,7 @@ Results on UCI Credit Default dataset with Logistic Regression Classifier.
 
 
 
-#Acknowledgement:
+**Acknowledgement:**
 1) https://arxiv.org/abs/1312.6114
 2) https://arxiv.org/abs/2008.09202  
 3) https://github.com/justinengelmann/GANbasedOversampling
